@@ -41,4 +41,11 @@ The code (`FinalHovercraftCode.c`) allows the system to bypass the Arduino abstr
 * **Challenges:** The primary failure point was sensor noise handling in the competition environment. The IR/Ultrasonic sensor placement was swapped late in the process, which introduced unhandled edge cases in the navigation logic.
 
 ## Gallery
+## Gallery
+| Drawing | Model |
+| :---: | :---: |
+| ![Drawing](drawing.png) | ![Model](model.png) |
 
+| Competition |
+| :---: |
+| ![Competition](final_comp.png) |
