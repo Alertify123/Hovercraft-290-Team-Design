@@ -51,7 +51,7 @@ The code (`FinalHovercraftCode.c`) allows the system to bypass the Arduino abstr
 <table>
   <tr>
     <th width="50%">The Setup</th>
-    <th width="50%">The Run (Video)</th>
+    <th width="50%">Test Run</th>
   </tr>
   <tr>
     <td valign="top">
