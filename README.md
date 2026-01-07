@@ -26,7 +26,7 @@ The design prioritizes weight efficiency (~685g total mass) using a "Concept 1" 
 * **Power:** 2x Gens 450 mAh LiPo Batteries (Series).
 
 ## Software Architecture
-The code (`FinalHovercraftCode.c`) allows the system to bypass the Arduino abstraction layer for higher performance.
+The code (`FinalHovercraftCode_290_TEAM3_FALL_2025.c`) allows the system to bypass the Arduino abstraction layer for higher performance.
 
 ### Key Features Implemented:
 * **PID Control Loop:** Corrects steering drift using Gyroscope Z-axis data (`yaw_deg`).
